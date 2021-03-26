@@ -11,7 +11,7 @@
 The written code doesn't require installation or specific libraries to run beyond Anaconda distribution of Python, just the imports of modules done at the beginning of each notebook. `Pandas`, `Seaborn`, `Matplotlib`, and `datetime` are used in the code. The code should run fine as Python 3.*
 
 # Project Motivation
-This project is motivated by helping out the team of [Wasla Now](https://www.waslanow.com/), a regrigerated devlivery marketplace, understand their business and operations better. The following questions were addressed in this data analysis:
+This project is motivated by helping out the team of [Wasla Now](https://www.waslanow.com/), a regrigerated delivery marketplace, understand their business and operations better. The following questions were addressed in this data analysis:
 1. What the top 10 shops and delivery companies that are connected with high number of incidents? how does that look relative to their total contribution of orders?
 2. What is the week to week order count of the top 10 highest ordering shops? what apparent observations can be viewed from it that can help the business team?
 3. Which cities have the highest order pickups number?
