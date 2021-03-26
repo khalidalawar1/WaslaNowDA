@@ -1,11 +1,11 @@
 # WaslaNowDA
 
 # Table of Contents
-1. [Installation]()
-2. [Project Motivation]()
-3. [File Descriptions]()
-4. [Results]()
-5. [Licensing]()
+1. [Installation](https://github.com/khalidalawar1/WaslaNowDA#installation)
+2. [Project Motivation](https://github.com/khalidalawar1/WaslaNowDA#project-motivation)
+3. [File Descriptions](README.md#file-descriptions)
+4. [Results](README.md#results)
+5. [Licensing](README.md#licensing)
 
 # Installation
 
