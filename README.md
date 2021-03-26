@@ -5,7 +5,7 @@
 2. [Project Motivation](https://github.com/khalidalawar1/WaslaNowDA#project-motivation)
 3. [File Descriptions](README.md#file-descriptions)
 4. [Results](README.md#results)
-5. [Licensing](#licensing)
+5. [Licensing](#licensing-authors-and-acknowledgements)
 
 # Installation
 
