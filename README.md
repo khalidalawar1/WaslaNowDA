@@ -23,6 +23,7 @@ The fullset of data is Wasla Now's are owned by Wasla Now, hence, they are not a
 This project has 4 notebook files each addressing one of the questions stated in the project motivation section. Each of these notebooks contains the code and describes the thought process that went into answering the target question. 
 
 # Results
+The results of this finding can be viewed on [this medium post](https://khalidalawar1.medium.com/using-data-analysis-will-make-you-better-in-business-31dbfb855a6)
 
 # Licensing, Authors, and Acknowledgements
 This project was done at the consent of management of Wasla Now.
