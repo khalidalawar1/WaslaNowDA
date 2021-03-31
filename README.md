@@ -1,5 +1,7 @@
 # WaslaNowDA
 
+Below is a data analysis project using the CRISP-DM methodology.
+
 # Table of Contents
 1. [Installation](#installation)
 2. [Project Motivation](#project-motivation)
