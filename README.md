@@ -1,6 +1,6 @@
 # WaslaNowDA
 
-Below is a data analysis project using the CRISP-DM methodology.
+Below is a data analysis project using the CRISP-DM methodology. In each notebook, you will find the: Business Understanding, Data Understanding, Preparation of Data, Model, Results.
 
 # Table of Contents
 1. [Installation](#installation)
